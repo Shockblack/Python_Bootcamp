@@ -2,7 +2,7 @@
 ##### By: Aiden Zelakiewicz (asz39@cornell.edu)
 
 
-Welcome to the Python Bootcamp for Cornell University's Department of Astronomy. This bootcamp is primarily designed for the 2024 Research Experience for Undergraduates (REU) program, but is openly available to the wider Cornell Astronomy community. This bootcamp is heavily inspired by the [2022 Cornell REU](https://github.com/CUAstro-REU-Python-Workshop/2022-workshop) bootcamp and Ohio State Astronomy's [Python Bootcamp](https://github.com/giganano/PythonBootcamp) by James Johnson.
+Welcome to the Python Bootcamp for Cornell University's Department of Astronomy. This bootcamp is primarily designed for the 2024 Research Experience for Undergraduates (REU) program, but is openly available to the wider Cornell Astronomy community. This bootcamp is heavily inspired by the [2022 Cornell REU](https://github.com/CUAstro-REU-Python-Workshop/2022-workshop) bootcamp, Ohio State Astronomy's [Python Bootcamp](https://github.com/giganano/PythonBootcamp) by James Johnson, and the OSU Astronomy 1221 and 3350 courses by Prof. Donald Terndrup.
 
 What you are seeing currently are files in a GitHub repository, a great tool for version control and storage of code. The bootcamp focuses on using Jupyter Notebooks, which are an interactive way to run Python. Ideally, before the bootcamp, you will have Python installed on your local computer along with Jupyter. Otherwise, we will also introduce the free service [SciServer](https://apps.sciserver.org/) from which both Python scripts and Jupyter notebooks can be used. Everything you will do in this bootcamp can be done from SciServer, and maybe even most of the research you will do, but eventually getting Python installed locally will give you much greater flexibility.
 
