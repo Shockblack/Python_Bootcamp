@@ -10,6 +10,10 @@ What you are seeing currently are files in a GitHub repository, a great tool for
 
 Before we begin the bootcamp, I would like you to figure out how you will be using Python and Jupyter. If you are comfortable with the terminal/using Python locally, you are free to do so. If you decide to use Python locally, I will recommend an Integrated Developement Environment (IDE) such as Microsoft's [Visual Studio Code](https://code.visualstudio.com/) (VSCode). This is personally where I (Aiden) do ALL of my coding and is the most community supported IDE available today. Once you learn VSCode, you will never go back as it is such a boon to coding in multiple languages at once with many customizable quality of life features, such as AI autocomplete, autobracketing, colorized indents, and so much more.
 
+Things to do before the bootcamp begins are as follows:
+1. Get Access To Python (details below)
+2. Download/Clone the Repository (details below)
+3. Go through [CrashCourseInPython.ipynb](code/BeforeBootcamp/CrashCourseInPython.ipynb) as a primer
 
 
 ### Getting Started with SciServer
@@ -36,7 +40,7 @@ There are many things you can do from this interactive JupyterLab window. On the
 
 ### Installing the Repository
 
-To download this entire repository locally, you can either click the <mark style="background-color: #32CD32"><>Code</mark> dropdown menu and download the zip file. Alternatively, you can type this line into the terminal in a directory you want to files downloaded to:
+To download this git repository (called "cloning") locally, you can either click the <mark style="background-color: #32CD32"><>Code</mark> dropdown menu and download the zip file. Alternatively, you can type this line into the terminal in a directory you want to files downloaded to:
 ```
 $ git clone https://github.com/Shockblack/Python_Bootcamp.git
 ```
