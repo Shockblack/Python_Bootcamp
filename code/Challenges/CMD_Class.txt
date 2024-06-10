@@ -1,0 +1,9 @@
+Using the Landolt dataset from the first exercise, create a CMD class for the data.
+You can find the file in the `Session01` folder.
+This class should have the methods and attributes that are similar to what we did in the exercise, such as:
+- `plot_cmd`: plot the CMD of the data
+- `abs_mv`: calculate the absolute magnitude of the stars
+- `distance_modulus`: calculate the distance modulus of the stars
+- `distance_pc`: calculate the distance to the stars in parsecs
+
+While you are doing this, try and imagine what other methods could be useful to add to the class and what the uses of a class like this could be.
