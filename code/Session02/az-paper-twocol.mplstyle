@@ -1,7 +1,6 @@
 axes.prop_cycle     : cycler('color', ['000000','CC6677','4477AA','DDCC77','117733','88CCEE','882255','44AA99','999933','AA4499', '661100',  'AA4466','4477AA'])
 
-font.family         : Computer Modern Roman
-text.usetex         : True
+font.family         : Times New Roman
 
 figure.figsize       : 6.0, 4
 figure.subplot.bottom: 0.15
