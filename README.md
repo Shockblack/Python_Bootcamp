@@ -45,9 +45,13 @@ $ pip install numpy
 
 ### 2. Cloning the Repository
 
-To download this git repository (called "cloning") locally, you can either click the <mark style="background-color: #32CD32"><>Code</mark> dropdown menu and download the zip file. Alternatively, you can type this line into the terminal in a directory you want to files downloaded to:
+To download this git repository (called "cloning") locally, you can either click the <mark style="background-color: #32CD32"><>Code</mark> dropdown menu and download the zip file. Alternatively, you can type this line into the terminal in a directory you want the files downloaded to (**RECOMMENDED**):
 ```
 $ git clone https://github.com/Shockblack/Python_Bootcamp.git
+```
+or
+```
+$ git clone git@github.com:Shockblack/Python_Bootcamp.git
 ```
 
 ### 3. Installing Required Python Packages
