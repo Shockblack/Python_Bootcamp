@@ -28,12 +28,16 @@ Here are some basic quickstart commands to get you started with Anaconda/Minicon
 ```bash
 # Create a new conda environment named "my_environment" with Python 3.12
 $ conda create -n my_environment python=3.12
+
 # Create an environment using the environment.yml
 $ conda env create -f environment.yml
+
 # Activate the environment
 $ conda activate my_environment
+
 # Deactivate the environment
 $ conda deactivate
+
 # Install a package (e.g., numpy) in the current environment (using pip)
 $ pip install numpy
 ```
