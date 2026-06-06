@@ -1,6 +1,5 @@
 name: astro-bootcamp
 channels:
-  - conda-forge
   - defaults
 dependencies:
   - python=3.11
@@ -9,6 +8,8 @@ dependencies:
   - matplotlib
   - pandas
   - astropy
-  - astroquery
   - jupyter
   - ipykernel
+  - pip
+  - pip:
+    - astroquery
